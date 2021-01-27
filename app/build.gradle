@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.flixster"
+        applicationId "com.example.appflix"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
