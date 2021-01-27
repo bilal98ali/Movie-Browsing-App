@@ -10,7 +10,7 @@
 ### User Stories
 
 The following **required** functionality is completed:
-- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 The following **optional** features were implemented:
 - [x] Views should be responsive for both landscape/portrait mode.
