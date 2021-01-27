@@ -23,7 +23,7 @@ The following **optional** features were implemented:
 
 ### App Walkthough
 
-<img src="https://media.giphy.com/media/Xup8a6778guFDyblQw/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/A0q5pU7giG9udNtOak/giphy.gif" width=250><br>
 
 ### Notes
 
